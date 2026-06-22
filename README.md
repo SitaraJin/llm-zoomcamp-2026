@@ -1,2 +1,2 @@
 # llm-zoomcamp-2026
-Introdution to RAG
+LLM Zoomcamp: Free Course on Building LLM Applications with RAG, Agents & Vector Search
